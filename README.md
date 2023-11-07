@@ -1,2 +1,2 @@
 # JavaClassProject
-THis was my final project for Java
+This was my final project for Java
